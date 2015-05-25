@@ -1,6 +1,14 @@
+
+#### WordPress Ignores
+wp-config.php
+wp-content/uploads
+
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+
 
 # Folder config file
 Desktop.ini
